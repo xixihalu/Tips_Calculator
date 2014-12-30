@@ -7,3 +7,4 @@ Requirement:type in bill amount and choose tips percentage to get the tips amoun
 Optional:slide to choose different tip percentages or type in percentage directly
 Optional:background color will change based on the percentage
 -GIF walkthrough of all required and optional stories
+![https://raw.githubusercontent.com/xixihalu/Tips_Calculator/master/Demo.gif]
