@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         tipLabel.text = "$0.00"
         totalLabel.text = "$0.00"
         tipField_2.text = "20"
+
     }
 
     override func didReceiveMemoryWarning() {
